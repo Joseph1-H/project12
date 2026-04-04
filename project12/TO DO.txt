@@ -1,9 +1,0 @@
-make sure the access database types line up with the ones in vs
-
-make sure username and name line up with vs and access
-
-review each data type in the access with the teacher
-
-ViewModel commentsDB line 109
-
-for each tableDB set the correct info
